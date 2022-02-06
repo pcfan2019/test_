@@ -4,4 +4,4 @@ Hello
 
 new branch
 
-new brach2
+new branch2
